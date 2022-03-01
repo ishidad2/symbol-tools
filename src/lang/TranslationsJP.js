@@ -5,7 +5,7 @@ export default {
     },
     Index: {
       home: {
-        placeholder: '例）dual-1.nodes-xym.work 「ドメイン名（FQDN）を入力してください。httpや:3000ポート番号は入力しないでください',
+        placeholder: '例）dual-1.nodes-xym.work 「ドメイン名（FQDN）を入力してください。httpsや:3000ポート番号は入力しないでください',
         message: 'ノードURLを入力したら検索ボタンを押してください。'
       },
       peer: {
@@ -23,7 +23,7 @@ export default {
         wallet: 'ウォレットアドレス',
         wallet_placeholder: '例）NDBSQQFMPJION5C6S5MTZHTXZF7YLX7UZHFLBOA',
         node: '委任先のノードURL',
-        node_placeholder: '例）dual-1.nodes-xym.work 「ドメイン名（FQDN）を入力してください。httpや:3000ポート番号は入力しないでください」'
+        node_placeholder: '例）dual-1.nodes-xym.work 「ドメイン名（FQDN）を入力してください。httpsや:3000ポート番号は入力しないでください」'
       },
       message: {
         msg1: 'ハーベストノードのURLと自身のウォレットアドレスを入力したら確認ボタンを押してください。',
@@ -59,7 +59,7 @@ export default {
         node: 'ノードを検索',
         peer: 'unlockedAccount検索',
         node_url: 'ノードURL',
-        node_url_placeholder: '例）dual-1.nodes-xym.work 「ドメイン名（FQDN）を入力してください。httpや:3000ポート番号は入力しないでください',
+        node_url_placeholder: '例）dual-1.nodes-xym.work 「ドメイン名（FQDN）を入力してください。httpsや:3000ポート番号は入力しないでください',
         unlockedAccount_rul: 'リンクされた公開鍵を検索'
       }
     },

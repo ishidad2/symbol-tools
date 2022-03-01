@@ -5,7 +5,7 @@ export default {
     },
     Index: {
       home: {
-        placeholder: 'Ex) dual-1.nodes-xym.work Enter the domain name (FQDN). Do not enter http or: 3000 port number.',
+        placeholder: 'Ex) dual-1.nodes-xym.work Enter the domain name (FQDN). Do not enter https or: 3000 port number.',
         message: 'After entering the node URL, press the search button.。'
       },
       peer: {
@@ -23,7 +23,7 @@ export default {
         wallet: 'Wallet address',
         wallet_placeholder: '例）NDBSQQFMPJION5C6S5MTZHTXZF7YLX7UZHFLBOA',
         node: 'Delegated node URL',
-        node_placeholder: 'Ex) dual-1.nodes-xym.work Enter the domain name (FQDN). Do not enter http or: 3000 port number.'
+        node_placeholder: 'Ex) dual-1.nodes-xym.work Enter the domain name (FQDN). Do not enter https or: 3000 port number.'
       },
       message: {
         msg1: 'Enter the URL of the harvest node and your wallet address, then press the confirm button.',
@@ -59,7 +59,7 @@ export default {
         node: 'Find node',
         peer: 'unlockedAccount search',
         node_url: 'Node URL',
-        node_url_placeholder: 'Ex) dual-1.nodes-xym.work Enter the domain name (FQDN). Do not enter http or: 3000 port number.',
+        node_url_placeholder: 'Ex) dual-1.nodes-xym.work Enter the domain name (FQDN). Do not enter https or: 3000 port number.',
         unlockedAccount_rul: 'Find the linked public key'
       }
     },
