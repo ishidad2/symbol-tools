@@ -129,7 +129,7 @@ export default {
       let _this = this;
       //空白除去
       let nodeAddress = this.nodeAddress.trim();
-      const nodeaddress = "https://" + nodeAddress + ":3000";
+      const nodeaddress = "https://" + nodeAddress + ":3001";
       const nodeHttp = new SymbolSdk.NodeHttp(nodeaddress);
 
       //peerNode取得
